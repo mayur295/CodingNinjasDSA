@@ -17,6 +17,8 @@ Sample Output :
 1 3 4
 */
 
+/*********************************************** SOLUTION ***************************************************************************/
+
 int allIndexes(int input[], int size, int x, int output[]) {
  
     // If an empty array comes 
